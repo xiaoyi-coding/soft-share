@@ -31,4 +31,4 @@
 
 关注公众号，更新更及时，发现更多好玩有趣的黑科技！ 
 
-![image-20220322174342630](https://gitee.com/xuexuguang/images/raw/master/img/image-20220322174342630.png)
+![image-20220322174342630](./img/follow_me.png)
